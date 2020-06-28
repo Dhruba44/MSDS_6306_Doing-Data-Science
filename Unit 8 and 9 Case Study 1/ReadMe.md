@@ -7,7 +7,11 @@ Furthermore, another attempt we made to pinpoint which city consumes the highest
 
 Structure of the project work and related submission – 
 1.	Data files 
+
 a.	Readme file stating the high level project objective and quick synopsis of the work we performed
+
 b.	Beers.csv and Breweries.csv
+
 c.	Rmarkdown (.Rmd) file containing all codes, graphs and analysis
+
 d.	.html file created from .Rmd for the presentation for the work we have done for this project
