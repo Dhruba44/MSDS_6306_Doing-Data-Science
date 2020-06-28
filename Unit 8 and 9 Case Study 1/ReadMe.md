@@ -6,11 +6,10 @@ We expanded our analysis beyond ABV and IBU, and strived to find how the contain
 Furthermore, another attempt we made to pinpoint which city consumes the highest ABV beer by the state. Finding was not that intricate, but putting that city in the map with aesthetic become challenging as it requires to pull the coordinate for each city and linking it together.
 
 Structure of the project work and related submission – 
-1.	Data files 
 
 a.	Readme file stating the high level project objective and quick synopsis of the work we performed
 
-b.	Beers.csv and Breweries.csv
+b. Data files - 	Beers.csv and Breweries.csv
 
 c.	Rmarkdown (.Rmd) file containing all codes, graphs and analysis
 
