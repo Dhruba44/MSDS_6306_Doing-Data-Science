@@ -14,3 +14,7 @@ b. Data files - 	Beers.csv and Breweries.csv
 c.	Rmarkdown (.Rmd) file containing all codes, graphs and analysis
 
 d.	.html file created from .Rmd for the presentation for the work we have done for this project
+
+e. PowerPoint presentation 
+
+d. Youtube link - Youtube: https://youtu.be/UpeKonI2Bt0 
